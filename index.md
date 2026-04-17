@@ -1,3 +1,10 @@
+# Test
+
+- [test](./test/test.md)
+
+- [shu-htk.github.io](https://shu-htk.github.io/)
+
+
 MDwiki
 ======
 
@@ -28,5 +35,4 @@ How to build from source
 5. Find the `mdwiki.html` in the `release/` and `dist/` folder
 
 
-https://shu-htk.github.io/
 
